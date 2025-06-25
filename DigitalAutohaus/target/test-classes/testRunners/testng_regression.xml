@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "https://testnf=g.org/testng-1.0.dtd">
+<suite name="login Page" verbose="4">
+
+    <test name="Login page Test">
+        <classes>
+            <class name="tests.LoginPageTest"/>
+        </classes>
+    </test>
+</suite>
